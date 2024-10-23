@@ -1,4 +1,4 @@
-# Descrição do Projeto: Loja de Livros 📚
+#Descrição do Projeto: Loja de Livros 📚
 
 ## Objetivo
 Este projeto foi desenvolvido para aplicar conhecimentos de Java adquiridos durante o curso de Análise e Desenvolvimento de Sistemas da Unisinos. O sistema simula uma loja de livros, permitindo o cadastro e gerenciamento de clientes.
